@@ -1,0 +1,33 @@
+[{
+		"GymMembers": {
+			"id": "111"
+			"firstName": "John",
+			"lastName": "Doe",
+			"status": "1"
+		}
+	},
+	{
+		"GymMembers": {
+			"id": "112"
+			"firstName": "Steven",
+			"lastName": "Jones",
+			"status": "1"
+		}
+	},
+	{
+		"GymMembers": {
+			"id": "113"
+			"firstName": "Kristin",
+			"lastName": "Sui",
+			"status": "1"
+		}
+	},
+	{
+		"GymMembers": {
+			"id": "114"
+			"firstName": "Steve",
+			"lastName": "Nickle",
+			"status": "2"
+		}
+	}
+]
